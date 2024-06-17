@@ -4,7 +4,7 @@
 
 ## Installation // Instalación
 - `en` Install the required libraries using pip. 
-- `es` Instale las bibliotecas requeridas utilizando pip.
+- `es` Instale las bibliotecas requeridas utilizando pip. 
 ```
 pip install python-docx deep-translator
 ```
